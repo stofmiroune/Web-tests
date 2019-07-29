@@ -1,0 +1,20 @@
+input { name="firstname" color: brouwn;
+
+
+}
+body{background-image: url(/Users/jsns/Downloads/cats/PS_Basics_Smart_Objects.jpg);
+     background-size: cover;
+
+
+}
+h2{
+  color: red;
+   text-align: center;
+   text-overflow: ellipsis;
+   border: 5px solid grey  ;
+    cursor: wait;
+    color: rgb(15 1, 8, 5);
+}
+li{
+  list-style: armenian ;
+}
